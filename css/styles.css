@@ -1,0 +1,40 @@
+body {
+    background-color: #dcdce5;
+}
+
+h1 {
+   color: #2779b2;
+}
+
+h3 {
+    color: #31936a;
+}
+
+.intro {
+    margin: auto;
+    width: initial;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.font-weight-bold {
+    font-weight: bold;
+}
+
+/* */
+.quote {
+    font-size: 2rem;
+}
+
+.indent {
+    margin-left: 3.5rem;
+    white-space: nowrap;
+ 
+}
+
+.wiki-call {
+    color: #a373d3;
+    font-size: 1.75rem;
+}
